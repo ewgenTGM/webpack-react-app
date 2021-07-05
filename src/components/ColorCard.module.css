@@ -1,0 +1,18 @@
+.card {
+	text-align: center;
+	background-color: aquamarine;
+	width: 150px;
+	height: 300px;
+}
+
+.card__header {
+	background-color: blueviolet;
+}
+
+.card__body {
+	background-color: darkred;
+}
+
+.card__footer {
+	background-color: green;
+}
